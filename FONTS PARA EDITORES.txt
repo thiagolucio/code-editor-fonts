@@ -8,7 +8,7 @@ Monaco
 Consolas
 Aurulent Sans Mono
 Andale Mono
-
+Fira Code
 
 Prefer config line from Atom:
 'Aurulent Sans Mono', DejaVu Sans Mono, Source Code Pro, Droid Sans Mono;
