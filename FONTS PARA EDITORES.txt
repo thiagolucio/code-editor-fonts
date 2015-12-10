@@ -11,4 +11,6 @@ Andale Mono
 Fira Code
 
 Prefer config line from Atom:
-'Aurulent Sans Mono', DejaVu Sans Mono, Source Code Pro, Droid Sans Mono;
+'Droid Sans Mono', DejaVu Sans Mono, Source Code Pro, Droid Sans Mono;
+
+'Droid Sans Mono', Roboto Mono;
