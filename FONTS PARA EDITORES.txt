@@ -12,6 +12,7 @@ Consolas
 Aurulent Sans Mono
 Andale Mono
 Fira Code
+NotoSans
 
 Prefer config line from Atom:
 'Droid Sans Mono', DejaVu Sans Mono, Source Code Pro, Droid Sans Mono;
