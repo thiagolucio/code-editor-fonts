@@ -13,9 +13,10 @@ Aurulent Sans Mono
 Andale Mono
 Fira Code
 NotoSans
+Hack
 
 Prefer config line from Atom:
-'Droid Sans Mono', DejaVu Sans Mono, Source Code Pro, Droid Sans Mono;
+'Droid Sans Mono', DejaVu Sans Mono, Source Code Pro, Droid Sans Mono, Hack;
 
 'Droid Sans Mono', Roboto Mono;
 
